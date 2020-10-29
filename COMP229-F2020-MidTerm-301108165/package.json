@@ -45,14 +45,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ukenov/Midterm.git"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "Asylhan Ukenov",
   "license": "ISC",
   "bugs": {
     "url": ""
